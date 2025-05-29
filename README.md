@@ -1,5 +1,7 @@
 # 🚗 Full Stack Uber Clone 🚖
+## 🔗 Live Demo
 
+👉 [https://uberrr.netlify.app]
 ## 💡 Description
 
 This **Uber Clone** is a fully functional web application built using the **MERN stack** (MongoDB, Express.js, React, and Node.js). The application emulates the core features of the popular ride-hailing service Uber, providing an intuitive user experience for both **users** (passengers) and **captains** (drivers). It allows users to register, authenticate, book rides, track real-time locations, and manage profiles, while captains can receive ride requests and manage their rides.
